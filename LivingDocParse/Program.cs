@@ -36,7 +36,7 @@ var newJson = new Rootobject() {
     ExecutionResults = new(),
     CLIUserSpecFlowId = null,
     StepReports = null,
-    PluginUserSpecFlowId = "0ba6a800-f10b-416e-b18c-77678132bce1",
+    PluginUserSpecFlowId = "<insert you guid here>",
     ExecutionTime = DateTime.Now,
     };
 //Create new Empty list of Executionresults
